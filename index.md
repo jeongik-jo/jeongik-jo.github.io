@@ -74,7 +74,7 @@ CV: [Download (PDF)](https://github.com/jeongik-jo/jeongik-jo.github.io/blob/mai
    Under review  
    - Proved that over-parameterized ReLU networks trained by gradient descent achieve dimension-free convergence under interaction model assumptions.
 
-<be>
+<br>
    
 <hr>
 
