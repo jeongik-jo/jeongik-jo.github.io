@@ -64,6 +64,9 @@ CV: [Download (PDF)](https://github.com/jeongik-jo/jeongik-jo.github.io/blob/mai
 7. **On the rate of convergence of an over-parametrized deep neural network regression estimate with ReLU activation function learned by gradient descent**  
    Under review  
    - Proved that over-parameterized ReLU networks trained by gradient descent achieve dimension-free convergence under interaction model assumptions.
+
+<br>
+   
 ---
 
 ## Dissertation
