@@ -1,26 +1,26 @@
-# Jeongik Cho  
+# Jeongik Cho
 
-Ph.D. Candidate in Computer Science, Concordia University, Montreal, Canada  
+Ph.D. Candidate in Computer Science, Concordia University, Montreal, Canada
 
 Email: [jeongik.jo.01@gmail.com](mailto:jeongik.jo.01@gmail.com)  
 LinkedIn: [https://www.linkedin.com/in/jeongik-cho-934215254](https://www.linkedin.com/in/jeongik-cho-934215254)  
-CV: [Download (PDF)](https://github.com/jeongik-jo/jeongik-jo.github.io/blob/main/Jeongik_Cho_CV.pdf)  
+CV: [Download (PDF)](https://github.com/jeongik-jo/jeongik-jo.github.io/blob/main/Jeongik_Cho_CV.pdf)
 
 ---
 
-## Research Interests  
+## Research Interests
 
-- Generative Models  
-- Generative Model Inversion (Representation Learning)  
-- Anomaly Detection  
-- Self-Supervised and Unsupervised Learning  
-- Theoretical Foundations of Deep Models  
-- Architecture-agnostic Deep Learning Algorithms  
+- Generative Models
+- Generative Model Inversion (Representation Learning)
+- Anomaly Detection
+- Self-Supervised and Unsupervised Learning
+- Theoretical Foundations of Deep Models
+- Architecture-agnostic Deep Learning Algorithms
 
 ---
 
 ## Selected Publications  
-> Some official versions are outdated. For updated results and experiments, refer to the summary PDFs and PhD dissertation (see [Releases](https://github.com/jeongik-jo/jeongik-jo.github.io/releases)).  
+> Some official versions are outdated. For updated results and experiments, refer to the summary PDFs and PhD dissertation (see [Releases](https://github.com/jeongik-jo/jeongik-jo.github.io/releases)).
 1. **Training Self-supervised Class-conditional GANs with Classifier Gradient Penalty and Dynamic Prior**  
    Under review  
    - Proposed self-supervised class-conditional GAN with dynamic categorical prior and classifier gradient regularization.  
@@ -60,7 +60,7 @@ CV: [Download (PDF)](https://github.com/jeongik-jo/jeongik-jo.github.io/blob/mai
 
 7. **On the rate of convergence of an over-parametrized deep neural network regression estimate with ReLU activation function learned by gradient descent**  
    Under review  
-   - Proved that over-parameterized ReLU networks trained by gradient descent achieve dimension-free convergence under interaction model assumptions.  
+   - Proved that over-parameterized ReLU networks trained by gradient descent achieve dimension-free convergence under interaction model assumptions.
 ---
 
 ## Dissertation
