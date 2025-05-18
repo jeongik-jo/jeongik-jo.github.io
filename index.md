@@ -81,4 +81,4 @@ CV: [Download (PDF)](https://github.com/jeongik-jo/jeongik-jo.github.io/blob/mai
 ## Dissertation
 
 All core experiments and contributions are consolidated in the following thesis:  
-**Ph.D. Dissertation** – available in the [Releases section](https://github.com/jeongik-jo/jeongik-jo.github.io/releases)
+**Ph.D. Dissertation** – available in the [Releases section](https://github.com/jeongik-jo/jeongik-jo.github.io/releases)  
