@@ -1,7 +1,3 @@
----
-layout: none
----
-
 # Jeongik Cho
 
 Ph.D. Candidate in Computer Science, Concordia University, Montreal, Canada
@@ -24,7 +20,7 @@ CV: [Download (PDF)](https://github.com/jeongik-jo/jeongik-jo.github.io/blob/mai
 ---
 
 ## Selected Publications  
-> Some official versions are outdated. For updated results and experiments, refer to the summary PDFs and PhD dissertation (see [Releases](https://github.com/jeongik-jo/jeongik-jo.github.io/releases)).
+> Some official versions are outdated. For updated results and experiments, refer to the summary PDFs and PhD dissertation (see [Releases](https://github.com/jeongik-jo/jeongik-jo.github.io/releases)).  
 1. **Training Self-supervised Class-conditional GANs with Classifier Gradient Penalty and Dynamic Prior**  
    Under review  
    - Proposed self-supervised class-conditional GAN with dynamic categorical prior and classifier gradient regularization.  
@@ -64,7 +60,7 @@ CV: [Download (PDF)](https://github.com/jeongik-jo/jeongik-jo.github.io/blob/mai
 
 7. **On the rate of convergence of an over-parametrized deep neural network regression estimate with ReLU activation function learned by gradient descent**  
    Under review  
-   - Proved that over-parameterized ReLU networks trained by gradient descent achieve dimension-free convergence under interaction model assumptions.
+   - Proved that over-parameterized ReLU networks trained by gradient descent achieve dimension-free convergence under interaction model assumptions.  
 ---
 
 ## Dissertation
