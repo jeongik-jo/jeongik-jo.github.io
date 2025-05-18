@@ -21,6 +21,7 @@ CV: [Download (PDF)](https://github.com/jeongik-jo/jeongik-jo.github.io/blob/mai
 
 ## Selected Publications  
 > Some official versions are outdated. For updated results and experiments, refer to the summary PDFs and PhD dissertation (see [Releases](https://github.com/jeongik-jo/jeongik-jo.github.io/releases)).
+
 1. **Training Self-supervised Class-conditional GANs with Classifier Gradient Penalty and Dynamic Prior**  
    Under review  
    - Proposed self-supervised class-conditional GAN with dynamic categorical prior and classifier gradient regularization.  
