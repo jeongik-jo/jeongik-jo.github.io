@@ -8,6 +8,15 @@ CV: [Download (PDF)](https://github.com/jeongik-jo/jeongik-jo.github.io/blob/mai
 
 ---
 
+## Technical Skills
+
+**Languages**: Python  
+**Frameworks**: PyTorch, TensorFlow, Scikit-learn  
+**Topics**: Generative Models, GANs, VAEs, Diffusion Models, Anomaly Detection, Clustering, Representation Learning, Unsupervised Learning, Regression, Computer Vision, Pattern Recognition
+
+
+---
+
 ## Research Interests
 
 - Generative Models
@@ -19,7 +28,7 @@ CV: [Download (PDF)](https://github.com/jeongik-jo/jeongik-jo.github.io/blob/mai
 
 ---
 
-## Selected Publications  
+## Publications  
 > Some official versions are outdated. For updated results and experiments, refer to the summary PDFs and PhD dissertation (see [Releases](https://github.com/jeongik-jo/jeongik-jo.github.io/releases)).
 
 1. **Training Self-supervised Class-conditional GANs with Classifier Gradient Penalty and Dynamic Prior**  
@@ -72,16 +81,4 @@ CV: [Download (PDF)](https://github.com/jeongik-jo/jeongik-jo.github.io/blob/mai
 ## Dissertation
 
 All core experiments and contributions are consolidated in the following thesis:  
-📄 **Ph.D. Dissertation** – available in the [Releases section](https://github.com/jeongik-jo/jeongik-jo.github.io/releases)
-
----
-
-## Technical Skills
-
-**Languages**: Python  
-**Frameworks**: PyTorch, TensorFlow, Scikit-learn  
-**Topics**: Generative Models, GANs, VAEs, Diffusion Models, Anomaly Detection, Clustering, Representation Learning, Unsupervised Learning, Regression, Computer Vision, Pattern Recognition
-
----
-
-For further details, please refer to the repositories above or contact me directly.
+**Ph.D. Dissertation** – available in the [Releases section](https://github.com/jeongik-jo/jeongik-jo.github.io/releases)
