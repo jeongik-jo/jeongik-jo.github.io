@@ -1,21 +1,21 @@
-# Jeongik Cho
+# Jeongik Cho  
 
-Ph.D. Candidate in Computer Science, Concordia University, Montreal, Canada
+Ph.D. Candidate in Computer Science, Concordia University, Montreal, Canada  
 
 Email: [jeongik.jo.01@gmail.com](mailto:jeongik.jo.01@gmail.com)  
 LinkedIn: [https://www.linkedin.com/in/jeongik-cho-934215254](https://www.linkedin.com/in/jeongik-cho-934215254)  
-CV: [Download (PDF)](https://github.com/jeongik-jo/jeongik-jo.github.io/blob/main/Jeongik_Cho_CV.pdf)
+CV: [Download (PDF)](https://github.com/jeongik-jo/jeongik-jo.github.io/blob/main/Jeongik_Cho_CV.pdf)  
 
 ---
 
-## Research Interests
+## Research Interests  
 
-- Generative Models
-- Generative Model Inversion (Representation Learning)
-- Anomaly Detection
-- Self-Supervised and Unsupervised Learning
-- Theoretical Foundations of Deep Models
-- Architecture-agnostic Deep Learning Algorithms
+- Generative Models  
+- Generative Model Inversion (Representation Learning)  
+- Anomaly Detection  
+- Self-Supervised and Unsupervised Learning  
+- Theoretical Foundations of Deep Models  
+- Architecture-agnostic Deep Learning Algorithms  
 
 ---
 
