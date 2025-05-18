@@ -1,3 +1,7 @@
+---
+layout: none
+---
+
 # Jeongik Cho
 
 Ph.D. Candidate in Computer Science, Concordia University, Montreal, Canada
