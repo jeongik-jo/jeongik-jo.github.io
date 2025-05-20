@@ -34,6 +34,8 @@ CV: [Download (PDF)](https://github.com/jeongik-jo/jeongik-jo.github.io/blob/mai
 1. **Training Self-supervised Class-conditional GANs with Classifier Gradient Penalty and Dynamic Prior**  
    Under review  
    - Proposed self-supervised class-conditional GAN with dynamic categorical prior and classifier gradient regularization.  
+   [Short Summary (PDF)](./CGPGAN_short.pdf)  
+   [Code Repository](https://github.com/jeongik-jo/CGPGAN_codebook)  
    [Preprint 1](https://vixra.org/abs/2307.0121) • [Preprint 2](https://vixra.org/abs/2409.0063)
 
 2. **Efficient integration of perceptual Variational Autoencoder into Dynamic Latent Scale Generative Adversarial Network**  
