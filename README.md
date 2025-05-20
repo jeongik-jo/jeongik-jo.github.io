@@ -34,43 +34,44 @@ CV: [Download (PDF)](https://github.com/jeongik-jo/jeongik-jo.github.io/blob/mai
 1. **Training Self-supervised Class-conditional GANs with Classifier Gradient Penalty and Dynamic Prior**  
    Under review  
    - Proposed self-supervised class-conditional GAN with dynamic categorical prior and classifier gradient regularization.  
+   [Short Summary (PDF)](./CGPGAN_short.pdf)  
+   [Code Repository](https://github.com/jeongik-jo/CGPGAN_codebook)  
    [Preprint 1](https://vixra.org/abs/2307.0121) • [Preprint 2](https://vixra.org/abs/2409.0063)
-
 <br>
 
-2. **Efficient integration of perceptual Variational Autoencoder into Dynamic Latent Scale Generative Adversarial Network**  
+3. **Efficient integration of perceptual Variational Autoencoder into Dynamic Latent Scale Generative Adversarial Network**  
    *Expert Systems*, 2024  
    - Combined perceptual VAE and GAN inversion for enhanced inversion performance.  
    [Short Summary (PDF)](./PVDGAN_short.pdf)  
    [Code Repository](https://github.com/jeongik-jo/PVDGAN)  
    [Published Version](https://onlinelibrary.wiley.com/doi/full/10.1111/exsy.13618)
 
-3. **Self-supervised Out-of-distribution Detection with Dynamic Latent Scale GAN**  
+4. **Self-supervised Out-of-distribution Detection with Dynamic Latent Scale GAN**  
    *S+SSPR*, 2022  
    - OOD (anomaly) detection method using log-probability of predicted latent vectors from GAN inversion.  
    [Short Summary (PDF)](./AnoDLSGAN_short.pdf)  
    [Code Repository](https://github.com/jeongik-jo/AnoDLSGAN)  
    [Published Version](https://link.springer.com/chapter/10.1007/978-3-031-23028-8_12)
 
-4. **Dynamic Latent Scale for GAN Inversion**  
+5. **Dynamic Latent Scale for GAN Inversion**  
    *ICPRAM*, 2022  
    - Introduced a dynamic latent scaling strategy for architecture-agnostic GAN inversion with improved convergence.  
    [Short Summary (PDF)](./DLSGAN_short.pdf)  
    [Code Repository](https://github.com/jeongik-jo/DLSGAN)  
    [Published Version](https://www.scitepress.org/Link.aspx?doi=10.5220/0010816800003122)
 
-5. **Conditional Activation GAN: Improved Auxiliary Classifier GAN**  
+6. **Conditional Activation GAN: Improved Auxiliary Classifier GAN**  
    *IEEE Access*, 2020  
    - Multiple GAN loss for improved class-conditional generation performance and reduced hyperparameter.  
    [Code Repository](https://github.com/jeongik-jo/CAGAN)  
    [Published Version](https://ieeexplore.ieee.org/abstract/document/9274378)
 
-6. **Analysis of the rate of convergence of two regression estimates defined by neural features**  
+7. **Analysis of the rate of convergence of two regression estimates defined by neural features**  
    *Electronic Journal of Statistics*, 2024  
    - Proposed regression models training only output layers via regularized least squares, achieving theoretical convergence rates without backpropagation.  
    [Published Version](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-18/issue-1/Analysis-of-the-rate-of-convergence-of-two-regression-estimates/10.1214/23-EJS2207.full)
 
-7. **On the rate of convergence of an over-parametrized deep neural network regression estimate with ReLU activation function learned by gradient descent**  
+8. **On the rate of convergence of an over-parametrized deep neural network regression estimate with ReLU activation function learned by gradient descent**  
    Under review  
    - Proved that over-parameterized ReLU networks trained by gradient descent achieve dimension-free convergence under interaction model assumptions.
 
